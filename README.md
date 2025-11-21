@@ -17,7 +17,3 @@ Code is taken from the nice [practice Python](https://www.practicepython.org/) w
 Giovanni Rinoldi
 
 Mattia
-
-
-
-Ciao
